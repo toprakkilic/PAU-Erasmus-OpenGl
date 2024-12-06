@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "hash_map": "cpp",
+    "bitset": "cpp",
+    "hash_set": "cpp",
+    "format": "cpp"
+  },
+  "cmake.sourceDirectory": "/home/toprakkilic/Desktop/01_Hello_Triangle/include/glfw-3.4"
+}
